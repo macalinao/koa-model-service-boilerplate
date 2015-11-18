@@ -1,0 +1,23 @@
+{
+  "name": "koa-model-service-boilerplate",
+  "version": "0.1.0",
+  "description": "This is a boilerplate for creating a Koa app in the model-service architecture.",
+  "main": "entry.js",
+  "scripts": {
+    "test": "mocha -R spec --compilers js:babel-core/register"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simplyianm/koa-model-service-boilerplate.git"
+  },
+  "keywords": [
+    "koa",
+    "boilerplate"
+  ],
+  "author": "Ian Macalinao <me@ian.pw>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simplyianm/koa-model-service-boilerplate/issues"
+  },
+  "homepage": "https://github.com/simplyianm/koa-model-service-boilerplate"
+}
